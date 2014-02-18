@@ -1,0 +1,22 @@
+{
+  "name": "PolymerTest",
+  "version": "2.0.0",
+  "homepage": "https://github.com/dohbutz/polymerTest",
+  "authors": [
+    "Henry Liu <dohbutz@gmail.com>"
+  ],
+  "description": "first bower config file",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer-elements": "Polymer/polymer-elements#~0.2.0",
+    "polymer-ui-elements": "Polymer/polymer-ui-elements#~0.2.0",
+    "polymer": "Polymer/polymer#~0.2.0"
+  }
+}
